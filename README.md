@@ -1,4 +1,8 @@
 <div align="center">
+    <img src="https://raw.githubusercontent.com/nicehero/tkdragfiles/main/show.gif"/>
+</div>
+
+<div align="center">
     
 [![PyPI](https://img.shields.io/pypi/v/tkdragfiles)](https://pypi.org/project/tkdragfiles/)
 
